@@ -5,6 +5,11 @@ Japanese static site for low-price digital templates and free tools.
 Canonical:
 - Home: /
 
+Product pages:
+- /products/listing-template-pack.html
+- /products/first-sale-checklist.html
+- /products/ai-worklog-template.html
+
 Free articles:
 - /articles/listing-copy-template.html
 - /articles/first-sale-checklist.html
