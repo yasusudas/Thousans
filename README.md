@@ -4,13 +4,19 @@
 
 ## Products
 
-- 商品ページ即貼りテンプレ50
-- 初回販売チェックリスト
-- AI作業ログ・振り返りテンプレ集
+- 商品ページ即貼りテンプレ50: `/products/listing-template-pack.html`
+- 初回販売チェックリスト: `/products/first-sale-checklist.html`
+- AI作業ログ・振り返りテンプレ集: `/products/ai-worklog-template.html`
+
+## Free Samples
+
+- `/bundles/listing-template-pack-preview.md`
+- `/bundles/first-sale-checklist-sample.md`
+- `/bundles/ai-worklog-template-sample.md`
 
 ## Deploy
 
-VercelではこのリポジトリをそのままImportしてください。単一の `index.html` で動くため、Build Commandは空、Output Directoryも空で問題ありません。
+VercelではこのリポジトリをそのままImportしてください。単一の `index.html` と静的HTML/Markdownで動くため、Build Commandは空、Output Directoryも空で問題ありません。
 
 ## Revenue Gate
 
