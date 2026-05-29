@@ -1,0 +1,26 @@
+# ThousandYen Digital Kits
+
+Japanese static site for low-price digital templates and free tools.
+
+Canonical:
+- Home: /
+
+Free articles:
+- /articles/listing-copy-template.html
+- /articles/first-sale-checklist.html
+- /articles/ai-worklog-template.html
+
+Free samples:
+- /bundles/listing-template-pack-preview.md
+- /bundles/first-sale-checklist-sample.md
+- /bundles/ai-worklog-template-sample.md
+
+Products:
+- 商品ページ即貼りテンプレ50: listing copy templates for BOOTH, note, and coconala.
+- 初回販売チェックリスト: pre-launch checklist for first-time digital product sellers.
+- AI作業ログ・振り返りテンプレ集: AI worklog, failure-note, prompt-improvement, and weekly-review templates.
+
+Safety:
+- Templates only.
+- No sales, approval, legal, tax, or productivity guarantees.
+- Purchase terms must be confirmed on the external marketplace page after checkout URLs exist.
