@@ -39,3 +39,5 @@ const checkoutLinks = {
 - 振込または売上金反映を本人が確認した
 
 未入金、未購入、クリックのみ、商品公開のみの場合は `purchase_confirmed` ではなく `checkout_connected` または `checkout_click` として扱う。
+
+購入または入金事実を確認したら、非機密情報だけを `operations/revenue-ops-ledger.md` に転記する。
