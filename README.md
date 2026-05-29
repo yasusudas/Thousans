@@ -8,14 +8,10 @@
 - 初回販売チェックリスト
 - AI作業ログ・振り返りテンプレ集
 
-## Commands
+## Deploy
 
-```bash
-npm install
-npm run check
-npm run dev
-```
+VercelではこのリポジトリをそのままImportしてください。単一の `index.html` で動くため、Build Commandは空、Output Directoryも空で問題ありません。
 
 ## Revenue Gate
 
-このリポジトリだけでは入金先を作れません。ココナラ、BOOTH、noteなどの本人アカウントで商品URLを作成し、`src/config.js` の `checkoutLinks` に貼ると購入ボタンとして動作します。
+このリポジトリだけでは入金先を作れません。ココナラ、BOOTH、noteなどの本人アカウントで商品URLを作成し、購入ボタンのURLへ接続すると販売導線になります。
